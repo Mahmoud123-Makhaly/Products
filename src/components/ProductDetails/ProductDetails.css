@@ -1,0 +1,13 @@
+.product-details{
+    display: flex;
+    justify-content: center;
+
+}
+.product-details .card{
+    width: 400px;
+    margin-top: 2em;
+    text-align: center;
+}
+.product-details .card img{
+    width: 100%;
+}

@@ -1,0 +1,8 @@
+ .categories-btns{
+    display: flex;
+    justify-content: center;
+ }
+ .categories-btns button{
+    margin: 10px;
+    color:#FFF
+ }
